@@ -1,0 +1,22 @@
+.coustom-class{
+    color: rgb(145, 255, 0);
+}
+#btn{
+    width: auto;
+    margin: auto;
+    margin-top: 0px;
+    background-color: rgb(0, 27, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    float: right;
+    border-radius: 3px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#btn:hover{
+    background-color: rgb(8, 88, 8);
+}
+.delButton{
+    float: right;
+    width: 10%;
+    margin: 0px;
+}
